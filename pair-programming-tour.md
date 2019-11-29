@@ -42,7 +42,7 @@ There are several software craftsmen which inspired me a lot:
 * Craftsman Swap by [Nicole Rauch][nicole-rauch-tour]
 * and many more craftsmen...
 
-It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring craftsman who saw that the potential benefit is greater than the risks required to overcome.
+It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring craftsmen who saw that the potential benefit is greater than the risks required to overcome.
 
 
 
@@ -108,7 +108,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 ## How can I get my own impression of what it is like to pair with Harald?
 
-Let's do a 1 hour remote pairing session. Send me a request with your preferred date+time. See the contact details on the [end of this article](#lets-talk).
+Let's do a 1-hour remote pairing session. Send me a request with your preferred date+time. See the contact details on the [end of this article](#lets-talk).
 
 A time slot around 9 am PST would be best, which is 6 pm CET where I am right now. If that time is difficult for you, we will find a different solution :)
 
@@ -124,3 +124,12 @@ Twitter: [@Harald3DCV][harald-twitter-message] or
 Email: harald.reingruber AT gmail.com
 
 [harald-twitter-message]: https://twitter.com/messages/compose?recipient_id=388416466
+
+## Thanks
+
+Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier-twitter] and [@nicolerauch][nicole-rauch-twitter] for the great support and valuable feedback while I was planning my pair-programming tour.
+
+[amitai-schleier-twitter]: https://twitter.com/schmonz
+[nicole-rauch-twitter]: https://twitter.com/nicolerauch
+[peter-kofler-twitter]: https://twitter.com/codecopkofler
+
