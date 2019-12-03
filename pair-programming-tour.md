@@ -29,35 +29,6 @@ The idea is simple: You provide room and board. I pair with you for a couple of 
 
 If there is a budget-wise problem, let's talk. It won't be THE crucial point to make this happen.
 
-
-### My Inspiration
-
-There are several software craftsmen which inspired me a lot:
-
-* Journeyman Tour by [Corey Haines][corey-haines-blog]
-
-    Probably the first coding tour, which inspired many others. The tour was also featured on [InfoQ][corey-haines-tour]. Corey is also one of the inventors of the [Code Retreat][code-retreat-about] format.
-* Code Cop Tour by [Peter "Code Cop" Kofler][peter-kofler-tour]
-* Coding Tour by [Amitai Schleier][amitai-schleier-tour]
-* Craftsman Swap by [Nicole Rauch][nicole-rauch-tour]
-* and many more craftsmen...
-
-It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring craftsmen who saw that the potential benefit is greater than the risks required to overcome.
-
-
-
-[amitai-schleier-blog]: https://schmonz.com
-[amitai-schleier-tour]: https://schmonz.com/2018/04/23/coding-tour
-[code-retreat-about]: https://www.coderetreat.org/pages/about
-[corey-haines-blog]: http://blog.coreyhaines.com
-[corey-haines-tour]: https://www.infoq.com/news/2008/12/haines-pairing-tour
-[german-walz-wiki]: https://en.wikipedia.org/wiki/Journeyman_years#The_German_%22Walz%22
-[journeyman-photo-credits]: https://commons.wikimedia.org/w/index.php?curid=1780852
-[journeyman-photo-url]: https://github.com/haraldreingruber/blog/raw/master/imgs/journeymen.jpg
-[nicole-rauch-tour]: http://nicolerauch.de/posts/2016-08-29-craftsman-swap-and-journeyman-tour.html
-[peter-kofler-tour]: http://blog.code-cop.org/p/journeyman-tour.html
-[wwoof-about]: https://wwoofusa.org/about
-
 ## What can Harald offer to me and/or my company?
 
 An absolute requirement is that we set goals so that we both can expect to gain value from my visit. Besides my learning from you, you will learn from me as well, and probably (depending on the goals) receive a direct contribution from me to your work. 
@@ -106,11 +77,60 @@ Also, if we discover topics of general interest I am happy to give talks or work
 [simd-wiki]: https://en.wikipedia.org/wiki/SIMD
 [volume-rendering-wiki]: https://en.wikipedia.org/wiki/Volume_rendering
 
-## How can I get my own impression of what it is like to pair with Harald?
+## What’s it like to code with Harald?
+
+> Harald is a fun colleague and downright team player who always tries to improve his and the team's performance by enforcing regular code reviews and by practicing pair programming.
+> -- <cite>Ferdinand Pilz</cite>
+
+> Harald always strives to find a clean and elegant solution to a problem 
+> that integrates well with the existing codebase.
+> -- <cite>Ferdinand Pilz</cite>
+
+> Harald really knows his way around a codebase and always manages to find 
+> a clean solution to a problem that integrates well with the existing code.
+> -- <cite>Ferdinand Pilz</cite>
+
+> In a former company Harald and me have been coding together in a development team for several years. His strong enthusiasm for software development in general and his convinced drive towards agile methodologies to stimulate tight coding collaboration among programmers are an inspiration to me. His eagerness to continue growing as a developer to perfection coding skills, as well as his willingness to share gained insight and experience make him an agilist in the finest sense of the term. 
+
+> I love Harald's passion to explore new things and to share his skills 
+> with others. He always strives for the best possible solution and not 
+> for the quick hack. I worked with him for over 2 years. He definitely 
+> made me a better programmer!
+> -- <cite>Robi Hammerle</cite>
+
+## How can I get my own impression?
 
 Let's do a 1-hour remote pairing session. Send me a request with your preferred date+time. See the contact details on the [end of this article](#lets-talk).
 
 A time slot around 9 am PST would be best, which is 6 pm CET where I am right now. If that time is difficult for you, we will find a different solution :)
+
+### Did Harald come up with this idea himself?
+
+There are several software craftsmen which inspired me a lot:
+
+* Journeyman Tour by [Corey Haines][corey-haines-blog]
+
+    Probably the first coding tour, which inspired many others. The tour was also featured on [InfoQ][corey-haines-tour]. Corey is also one of the inventors of the [Code Retreat][code-retreat-about] format.
+* Code Cop Tour by [Peter "Code Cop" Kofler][peter-kofler-tour]
+* Coding Tour by [Amitai Schleier][amitai-schleier-tour]
+* Craftsman Swap by [Nicole Rauch][nicole-rauch-tour]
+* and many more craftsmen...
+
+It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring craftsmen who saw that the potential benefit is greater than the risks required to overcome.
+
+
+
+[amitai-schleier-blog]: https://schmonz.com
+[amitai-schleier-tour]: https://schmonz.com/2018/04/23/coding-tour
+[code-retreat-about]: https://www.coderetreat.org/pages/about
+[corey-haines-blog]: http://blog.coreyhaines.com
+[corey-haines-tour]: https://www.infoq.com/news/2008/12/haines-pairing-tour
+[german-walz-wiki]: https://en.wikipedia.org/wiki/Journeyman_years#The_German_%22Walz%22
+[journeyman-photo-credits]: https://commons.wikimedia.org/w/index.php?curid=1780852
+[journeyman-photo-url]: https://github.com/haraldreingruber/blog/raw/master/imgs/journeymen.jpg
+[nicole-rauch-tour]: http://nicolerauch.de/posts/2016-08-29-craftsman-swap-and-journeyman-tour.html
+[peter-kofler-tour]: http://blog.code-cop.org/p/journeyman-tour.html
+[wwoof-about]: https://wwoofusa.org/about
 
 ## What about my project/company secrets and intellectual property?
 
@@ -127,7 +147,7 @@ Email: harald.reingruber AT gmail.com
 
 ## Thanks
 
-Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier-twitter] and [@nicolerauch][nicole-rauch-twitter] for the great support and valuable feedback while I was planning my pair-programming tour.
+Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier-twitter] and [@nicolerauch][nicole-rauch-twitter] for the great support and valuable feedback while I was planning my pairprogramming tour.
 
 [amitai-schleier-twitter]: https://twitter.com/schmonz
 [nicole-rauch-twitter]: https://twitter.com/nicolerauch
