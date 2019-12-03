@@ -13,7 +13,7 @@ I have hands-on experience with delivering high-quality software, but I also lik
 
 ## What is this Pair-programming Tour?
 > It’s when a programmer briefly visits several companies to join them in their coding work and to learn from each other.
-> -- <cite>[Amitai Schleier][amitai-schleier-blog]</cite>
+> -- <cite>[Amitai Schleier][amitai-schleier-website]</cite>
 
 [Corey Haines][corey-haines-blog] coined the term *Journeyman Tour*, an analogy to the journeyman years of medieval craftsmen (e.g. the German ["Walz"][german-walz-wiki]), who were visiting several master after their apprenticeship in order to grow professionally and to become a master of their field themselves.
 
@@ -120,7 +120,7 @@ It takes a lot of courage and effort planning and implementing such a tour, also
 
 
 
-[amitai-schleier-blog]: https://schmonz.com
+[amitai-schleier-website]: https://latentagility.com
 [amitai-schleier-tour]: https://schmonz.com/2018/04/23/coding-tour
 [code-retreat-about]: https://www.coderetreat.org/pages/about
 [corey-haines-blog]: http://blog.coreyhaines.com
