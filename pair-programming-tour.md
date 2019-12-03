@@ -19,7 +19,7 @@ I have hands-on experience with delivering high-quality software, but I also lik
 
 ![German journeymen (craftsmen) in traditional dress][journeyman-photo-url]<figcaption>German journeymen (craftsmen) in traditional dress. Photo credits: [A.stemmer, CC BY-SA 3.0][journeyman-photo-credits]</figcaption>
 
-Nowadays, there are similar programs in other industries that offer additional professional experience in exchange for supporting the host in their everyday work. It's probably more common in labor-intensive professions (e.g. [organic farming][wwoof-about]), which surprises because the software engineering discipline is relatively young, the development processes are far from obvious and the variety how we work towards our goals is several orders of magnitude bigger than compared to working on/with physical things. At least, I think that this has something to do because most of our tools and frameworks are virtual.
+Nowadays, there are similar programs in other industries that offer additional professional experience in exchange for supporting the host in their everyday work. It's probably more common in labor-intensive professions (e.g. [organic farming][wwoof-about]), which surprises because the software engineering discipline is relatively young, the development processes are far from obvious and the variety how we work towards our goals is several orders of magnitude bigger than compared to working on/with physical things. At least, I think that this complexity in our industry has something to do with most of our tools and frameworks being virtual.
 
 Learning on the go, and generating value on the way is crucial in order to balance priorities between business and engineering, except if there is a huge research budget.
 
