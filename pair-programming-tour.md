@@ -23,11 +23,13 @@ Nowadays, there are similar programs in other industries that offer additional p
 
 Learning on the go, and generating value on the way is crucial in order to balance priorities between business and engineering, except if there is a huge research budget.
 
-### The Idea
+### How does it work?
 
 The idea is simple: You provide room and board. I pair with you for a couple of days. We do it because we both expect to gain.
 
-Basically, I am offering to share my knowledge and provide new insights for free. Why? Because I don't want to miss interesting pair-programming opportunities because of troubles getting the budget approved.
+### Why would a skilled pair-programmer offer his services for free?
+
+Exactly. I am offering to share my knowledge and provide new insights for free. Why? Because I don't want to miss interesting pair-programming opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
 
 ## What can Harald offer to me and/or my company?
 
@@ -84,7 +86,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 #
 
-> Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowlede make him a first-class software craftsman. His strong enthusiasm for software development and collaboration among developers are an inspiration to me.
+> Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowlede make him a first class software craftsman. His strong enthusiasm for software development and collaboration among developers are an inspiration to me.
 > -- <cite>Alexander Hörmandinger</cite>
 
 #
