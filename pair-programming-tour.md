@@ -106,9 +106,9 @@ Let's do a 1-hour remote pairing session. Send me a request with your preferred 
 
 A time slot around 9 am PST would be best, which is 6 pm CET where I am right now. If that time is difficult for you, we will find a different solution :)
 
-### Did Harald come up with this idea himself?
+## Did Harald come up with this idea himself?
 
-There are several software craftsmen which inspired me a lot:
+There are several software craftsmen who did similar tours and inspired me a lot:
 
 * Journeyman Tour by [Corey Haines][corey-haines-blog]
 
