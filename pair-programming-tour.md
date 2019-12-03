@@ -157,4 +157,4 @@ Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier
 
 ## Ask me anything!
 
-Leave your questions in the comments section, or [contact me](#lets-talk).
+Leave your questions in the comments section, or [contact me](#lets-talk) directly.
