@@ -79,23 +79,17 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 ## What’s it like to code with Harald?
 
-> Harald is a fun colleague and downright team player who always tries to improve his and the team's performance by enforcing regular code reviews and by practicing pair programming.
+> Harald is a fun colleague and downright team player who always tries to improve his and the team's performance by encouraging regular code reviews and practicing pair programming. He always strives to find a clean and elegant solution to the problem that integrates well with the existing codebase.
 > -- <cite>Ferdinand Pilz</cite>
 
-> Harald always strives to find a clean and elegant solution to a problem 
-> that integrates well with the existing codebase.
-> -- <cite>Ferdinand Pilz</cite>
+#
 
-> Harald really knows his way around a codebase and always manages to find 
-> a clean solution to a problem that integrates well with the existing code.
-> -- <cite>Ferdinand Pilz</cite>
+> Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowlede make him a first class software craftsman. His strong enthusiasm for software development and collaboration among developers are an inspiration to me.
+> -- <cite>Alexander Hörmandinger</cite>
 
-> In a former company Harald and me have been coding together in a development team for several years. His strong enthusiasm for software development in general and his convinced drive towards agile methodologies to stimulate tight coding collaboration among programmers are an inspiration to me. His eagerness to continue growing as a developer to perfection coding skills, as well as his willingness to share gained insight and experience make him an agilist in the finest sense of the term. 
+#
 
-> I love Harald's passion to explore new things and to share his skills 
-> with others. He always strives for the best possible solution and not 
-> for the quick hack. I worked with him for over 2 years. He definitely 
-> made me a better programmer!
+> I love Harald's passion to explore new things and to share his skills with others. He always strives for the best possible solution and not for the quick, "naive" solution. I worked with him for over 2 years. He definitely made me a better programmer!
 > -- <cite>Robi Hammerle</cite>
 
 ## How can I get my own impression?
@@ -114,9 +108,9 @@ There are several software craftsmen which inspired me a lot:
 * Code Cop Tour by [Peter "Code Cop" Kofler][peter-kofler-tour]
 * Coding Tour by [Amitai Schleier][amitai-schleier-tour]
 * Craftsman Swap by [Nicole Rauch][nicole-rauch-tour]
-* and many more craftsmen...
+* and many more crafters...
 
-It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring craftsmen who saw that the potential benefit is greater than the risks required to overcome.
+It takes a lot of courage and effort planning and implementing such a tour, also it bears a risk when two parties who barely know each other agree to work together. My admiration for all the hosts and touring crafters who saw that the potential benefit is greater than the risks required to overcome.
 
 
 
