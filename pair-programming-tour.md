@@ -149,9 +149,12 @@ Email: harald.reingruber AT gmail.com
 
 ## Thanks
 
-Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier-twitter] and [@nicolerauch][nicole-rauch-twitter] for the great support and valuable feedback while I was planning my pairprogramming tour.
+Big thanks to [@codecopkofler][peter-kofler-twitter], [@schmonz][amitai-schleier-twitter] and [@nicolerauch][nicole-rauch-twitter] for the great support and valuable feedback while I was planning my pair-programming tour.
 
 [amitai-schleier-twitter]: https://twitter.com/schmonz
 [nicole-rauch-twitter]: https://twitter.com/nicolerauch
 [peter-kofler-twitter]: https://twitter.com/codecopkofler
 
+## Ask me anything!
+
+Leave your questions in the comments section, or [contact me](#lets-talk).
