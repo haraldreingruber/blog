@@ -51,7 +51,7 @@ I have hands-on experience in the following areas:
     * Diving into new technologies/languages really quickly!
 
 * Visual Computing
-    * Unity3D
+    * [Unity3D][unity3d-about], [OGRE3D][ogre3d-about]
     * 3D cloud rendering service
     * OpenGL, DirectX
     * Augmented and virtual reality
@@ -77,8 +77,10 @@ Also, if we discover topics of general interest I am happy to give talks or work
 [clean-code-book]: https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html?tab=overview
 [dicom-wiki]: https://en.wikipedia.org/wiki/DICOM
 [emscripten-about]: https://emscripten.org/docs/introducing_emscripten/about_emscripten.html
+[ogre3d-about]: https://www.ogre3d.org/about
 [refactoring-book]: https://martinfowler.com/books/refactoring.html
 [simd-wiki]: https://en.wikipedia.org/wiki/SIMD
+[unity3d-about]: https://unity3d.com/de/unity
 [volume-rendering-wiki]: https://en.wikipedia.org/wiki/Volume_rendering
 
 ## What’s it like to code with Harald?
