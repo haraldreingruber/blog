@@ -46,6 +46,8 @@ I have hands-on experience in the following areas:
     * Object-oriented and functional programming
     * [Clean Code][clean-code-book], [Refactoring][refactoring-book], Loose coupled architecture
     * Unit, Integration, Acceptance and UI Testing
+    * TDD
+    * Creating tests for legacy applications
     * Performance profiling and memory leak analysis
     * Open source license compliance
     * Diving into new technologies/languages really quickly!
