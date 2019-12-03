@@ -27,7 +27,7 @@ Learning on the go, and generating value on the way is crucial in order to balan
 
 The idea is simple: You provide room and board. I pair with you for a couple of days. We do it because we both expect to gain.
 
-If there is a budget-wise problem, let's talk. It won't be THE crucial point to make this happen.
+Basically, I am offering to share my knowledge and provide new insights for free. Why? Because I don't want to miss interesting pair-programming opportunities because of troubles getting the budget approved.
 
 ## What can Harald offer to me and/or my company?
 
