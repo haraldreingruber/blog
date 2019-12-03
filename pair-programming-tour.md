@@ -1,6 +1,6 @@
 ###### *Cover image credits: [Calqui - Own work, CC BY-SA 3.0][cover-image-credits]*
 
-I will be coming to the **San Francisco Bay Area** in early 2020 (January and/or February) for a pair-programming tour.
+I will be coming to the **San Francisco Bay Area** in early 2020 (late January/February) for a pair-programming tour.
 
 ### *TL;DR*
 <mark>Invite me to join you for a couple of days pairing with you, while working on your current tasks/project.</mark>
@@ -29,7 +29,7 @@ The idea is simple: You provide room and board. I pair with you for a couple of 
 
 ### Why would a skilled pair-programmer offer his services for free?
 
-Exactly. I am offering to share my knowledge and provide new insights for free. Why? 
+Exactly. I am offering to share my knowledge and provide new insights for free. Why I am doing this? 
 
 Because I don't want to miss interesting pair-programming opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
 
