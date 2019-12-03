@@ -79,7 +79,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 ## What’s it like to code with Harald?
 
-> Harald is a fun colleague and downright team player who always tries to improve his and the team's performance by encouraging regular code reviews and practicing pair programming. He always strives to find a clean and elegant solution to the problem that integrates well with the existing codebase.
+> Harald is a fun coworker and downright team player who always tries to improve his and the team's performance by encouraging regular code reviews and practicing pair programming. He always strives to find a clean and elegant solution to the problem that integrates well with the existing codebase.
 > -- <cite>Ferdinand Pilz</cite>
 
 #
