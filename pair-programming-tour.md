@@ -97,7 +97,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 #
 
-> I love Harald's passion to explore new things and to share his skills with others. He always strives for the best practices, instead of the quick, "naive" solution. I worked with him for over 2 years. He definitely made me a better programmer!
+> I love Harald's passion to explore new things and to share his skills with others. He always strives for the best practices, instead of the quick, "hacky" solution. I worked with him for over 2 years. He definitely made me a better programmer!
 > -- <cite>Robi Hammerle</cite>
 
 ## How can I get my own impression?
