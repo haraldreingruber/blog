@@ -54,6 +54,7 @@ I have hands-on experience in the following areas:
 
 * Visual Computing
     * [Unity3D][unity3d-about], [OGRE3D][ogre3d-about]
+    * [3D scanning][structure-scanner-website] and scan processing 
     * 3D cloud rendering service
     * OpenGL, DirectX
     * Augmented and virtual reality
@@ -82,6 +83,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 [ogre3d-about]: https://www.ogre3d.org/about
 [refactoring-book]: https://martinfowler.com/books/refactoring.html
 [simd-wiki]: https://en.wikipedia.org/wiki/SIMD
+[structure-scanner-website]: https://structure.io/structure-sensor
 [unity3d-about]: https://unity3d.com/de/unity
 [volume-rendering-wiki]: https://en.wikipedia.org/wiki/Volume_rendering
 
@@ -97,7 +99,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 #
 
-> I love Harald's passion to explore new things and to share his skills with others. He always strives for the best practices, instead of the quick, "hacky" solution. I worked with him for over 2 years. He definitely made me a better programmer!
+> I love Harald's passion to explore new things and to share his skills with others. He always strives for the best practices, instead of the quick, "naive" solution. I worked with him for over 2 years. He definitely made me a better programmer!
 > -- <cite>Robi Hammerle</cite>
 
 ## How can I get my own impression?
