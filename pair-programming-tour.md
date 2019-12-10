@@ -54,7 +54,7 @@ I have hands-on experience in the following areas:
 
 * Visual Computing
     * [Unity3D][unity3d-about], [OGRE3D][ogre3d-about]
-    * [3D scanning][structure-scanner-website] and scan processing 
+    * [3D scanning][structure-scanner-website] and scan processing (hole filling, volume computation, etc.)
     * 3D cloud rendering service
     * OpenGL, DirectX
     * Augmented and virtual reality
