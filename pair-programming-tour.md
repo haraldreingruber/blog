@@ -1,6 +1,6 @@
 ###### *Cover image credits: [Calqui - Own work, CC BY-SA 3.0][cover-image-credits]*
 
-I will be coming to the **San Francisco Bay Area** in early 2020 (late January/February) for a pair-programming tour.
+I will be coming to the **San Francisco Bay Area** in 2020 (March/April) for a pair-programming tour.
 
 ### *TL;DR*
 <mark>Invite me to join you for a couple of days pairing with you, while working on your current tasks/project.</mark>
