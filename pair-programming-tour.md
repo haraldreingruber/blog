@@ -3,7 +3,7 @@
 I will be coming to the **San Francisco Bay Area** in 2020 (March/April) for a pair-programming tour.
 
 ### *TL;DR*
-<mark>Invite me to join you for a couple of days pairing with you, while working on your current tasks/project.</mark>
+<mark>Invite me to join you for a couple of days pairing or mobbing with you, while working on your current tasks/project.</mark>
 
 [cover-image-credits]: https://commons.wikimedia.org/w/index.php?curid=16812850
 
@@ -25,13 +25,13 @@ Learning on the go, and generating value on the way is crucial in order to balan
 
 ### How does it work?
 
-The idea is simple: You provide room and board. I pair with you for a couple of days. We do it because we both expect to gain.
+The idea is simple: You provide room and board. I pair/mob with you for a couple of days/weeks. We do it because we both expect to gain.
 
-### Why would a skilled pair-programmer offer his services for free?
+### Why would a skilled developer offer his services for free?
 
 Exactly. I am offering to share my knowledge and provide new insights for free. Why I am doing this? 
 
-Because I don't want to miss interesting pair-programming opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
+Because I don't want to miss interesting opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
 
 ## What can Harald offer to me and/or my company?
 
