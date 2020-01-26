@@ -90,17 +90,17 @@ Also, if we discover topics of general interest I am happy to give talks or work
 ## What’s it like to code with Harald?
 
 > Harald is a fun coworker and downright team player who always tries to improve his and the team's performance by encouraging regular code reviews and practicing pair programming. He always strives to find a clean and elegant solution to the problem that integrates well with the existing codebase.
-> -- <cite>Ferdinand Pilz</cite>
+> -- <cite>Ferdinand Pilz, three10 GmbH</cite>
 
 #
 
 > Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowlede make him a first class software craftsman. His strong enthusiasm for software development and collaboration among developers are an inspiration to me.
-> -- <cite>Alexander Hörmandinger</cite>
+> -- <cite>Alexander Hörmandinger, Agfa Healthcare GmbH</cite>
 
 #
 
 > I love Harald's passion to explore new things and to share his skills with others. He always strives for the best practices, instead of the quick, "naive" solution. I worked with him for over 2 years. He definitely made me a better programmer!
-> -- <cite>Robi Hammerle</cite>
+> -- <cite>Robi Hammerle, three10 GmbH</cite>
 
 ## How can I get my own impression?
 
