@@ -1,6 +1,6 @@
 ###### *Cover image credits: [Calqui - Own work, CC BY-SA 3.0][cover-image-credits]*
 
-I will be coming to the **San Francisco Bay Area** in 2020 (March/April) for a pair-programming tour.
+I will be coming to the US in March/April 2020 for a pair-programming tour. My current plan is to have several stops along the west coast. Currently, I've planned to be touring in the following areas: **San Diego, San Francisco/Bay Area, Portland and Vancouver**.
 
 ### *TL;DR*
 <mark>Invite me to join you for a couple of days pairing or mobbing with you, while working on your current tasks/project.</mark>
