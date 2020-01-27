@@ -31,7 +31,7 @@ The idea is simple: You provide room and board. I pair/mob with you for a couple
 
 Exactly. I am offering to share my knowledge and provide new insights for free. Why I am doing this? 
 
-Because I don't want to miss interesting opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
+I don't want to miss interesting opportunities because of troubles getting the budget approved. The risks and costs should be as low as possible. I will invest time and energy, but I should not have to invest my own money.
 
 ## What can Harald offer to me and/or my company?
 
