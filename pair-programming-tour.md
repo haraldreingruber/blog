@@ -9,7 +9,11 @@ I will be coming to the US in March/April 2020 for a pair-programming tour. My c
 
 ## Who is Harald?
 I'm an enthusiastic software engineer with 10 years of professional experience working in different areas of visual and spatial computing.
-I have hands-on experience with delivering high-quality software, but I also like working on prototypes/MVPs for measuring traction *before* adding unnecessary complexity.
+I have hands-on experience with delivering high-quality software, but I also like working on prototypes/MVPs for measuring traction *before* adding unnecessary complexity. 
+
+Together with friends, I am organizing the [Vienna Unity3D Meetup][unity3d-meetup] trying to build up a local community discussing how to apply software engineering best practices when developing graphics-intensive software.
+
+[unity3d-meetup]: https://www.meetup.com/Unity-Meetup-Vienna/
 
 ## What is this Pair-programming Tour?
 > It’s when a programmer briefly visits several companies to join them in their coding work and to learn from each other.
