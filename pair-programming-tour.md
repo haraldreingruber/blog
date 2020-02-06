@@ -29,7 +29,7 @@ Learning on the go, and generating value on the way is crucial in order to balan
 
 ### How does it work?
 
-The idea is simple: You provide room and board. I pair/mob with you for a couple of days/weeks. We do it because we both expect to gain.
+The idea is simple: You (your employer) provide room and board. I pair/mob with you for a couple of days/weeks. We do it because we both expect to gain.
 
 ### Why would a skilled developer offer his services for free?
 
