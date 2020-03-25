@@ -1,5 +1,28 @@
 ###### *Cover image credits: [Calqui - Own work, CC BY-SA 3.0][cover-image-credits]*
 
+### Update (March 24) - Transition to doing a Remote Pair-/Mob-Programming Tour:
+Due to the current pandemic situation, I had to return from the US right before my tour even started. The absolutely amazing thing is, that most of the developers I have had planned to visit are on-board continuing online. So I've decided to do a **Remote Pair-/Mob-Programming Tour** instead, hence **I can join you no matter where in the world you are located**. That is so cool :ok_hand:
+
+Are you interested in pairing/mobbing with me? [Please reach out to me!](#lets-talk)
+
+Here is my current tour schedule:
+
+| Week | Date             | Developer/Company                                     | Topics                                       |
+|------|------------------|-------------------------------------------------------|----------------------------------------------|
+| 1    | March 23-27      | [Austin Chadwick][austin]/Hunter Industries           | .NET, Xamarin, Mob-Programming               |
+| 2    | March 30-April 3 | tbc                                                   |                                              |
+| 3    | April 6-10       | [Theo Armour][theo]                                   | JavaScript, three.js, Pair-Programming       |
+| 4    | April 13-17      | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 5    | April 20-24      | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 6    | April 27-May 1   | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 7    | May 4-8          | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+
+[austin]: https://twitter.com/mob__mentality
+[theo]: https://twitter.com/ta
+
+# Original Pair-Programming Tour Article:
+
 I will be coming to the US in March/April 2020 for a pair-programming tour. My current plan is to have several stops along the west coast. Currently, I've planned to be touring in the following areas: **San Diego, San Francisco/Bay Area, Portland and Vancouver**.
 
 ### *TL;DR*
