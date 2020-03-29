@@ -14,7 +14,7 @@ Here is my current tour schedule:
 | 3    | April 6-10       | Allen Chen - Occipital                                | Depth Camera, 6DOF Tracking, 3D Scanning SDK |
 | 4    | April 13-17      | tbc - Adrian      |                                              |
 | 5    | April 20-24      | tbc - Mike Clement      |                                              |
-| 6    | April 27-May 1   | tbc - John Nicolas      |                                              |
+| 6    | April 27-May 1   | tbc - Johnicolas      |                                              |
 | 7    | May 4-8          | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 
