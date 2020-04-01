@@ -11,10 +11,10 @@ Here is my current tour schedule:
 |------|------------------|-------------------------------------------------------|----------------------------------------------|
 | 1    | March 23-27      | [Austin Chadwick][austin], Hunter Industries          | .NET, Xamarin, Mob-Programming               |
 | 2    | March 30-April 3 | [Theo Armour][theo]                                   | JavaScript, three.js, Pair-Programming       |
-| 3    | April 6-10       | Allen Chen, Occipital                                 | Depth Camera, 6DOF Tracking, 3D Scanning SDK |
-| 4    | April 13-17      | [Adrian Bolboacă][adrian]                             | Dart, Flutter, Mobile Software               |
+| 3    | April 6-10       | [Adrian Bolboacă][adrian]                             | Dart, Flutter, Mobile Software               |
+| 4    | April 13-17      | tbc - Johnicolas, Glitch      |                                              |
 | 5    | April 20-24      | tbc - Mike Clement      |                                              |
-| 6    | April 27-May 1   | tbc - Johnicolas      |                                              |
+| 6    | April 27-May 1   | tbc - Allen Chen, Occipital                           | Depth Camera, 6DOF Tracking, 3D Scanning SDK |
 | 7    | May 4-8          | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 
