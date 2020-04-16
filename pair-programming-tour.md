@@ -12,8 +12,8 @@ Here is my current tour schedule:
 | 1    | March 23-27      | [Austin Chadwick][austin], Hunter Industries          | .NET, Xamarin, Mob-Programming               |
 | 2    | March 30-April 3 | [Theo Armour][theo]                                   | JavaScript, three.js, Pair-Programming       |
 | 3    | April 6-10       | [Adrian Bolboacă][adrian]                             | Dart, Flutter, Mobile Software               |
-| 4    | April 13-17      | Johnicolas, Glitch                                    |                                              |
-| 5    | April 20-24      | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 4    | April 13-17      | Johnicolas, Glitch                                    | TypeScript, Node.js, Pair-Programming        |
+| 5    | April 20-24      | Mike Clement, Emmersion Learning                      | Mob-Programming                              |
 | 6    | April 27-May 1   | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 7    | May 4-8          | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
