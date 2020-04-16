@@ -44,7 +44,11 @@ There are hundreds of HTML and JavaScript snippets, which Theo published in this
 After Theo showed me what he was working on, we figured out which topics might be interesting to start working on and kicked off our collaboration.
 
 ### ESlint
-The knew already that there is value in using tools for auto-formatting your code and static code analysis, but ESLint has ...
+Theo knew already that there is value in using tools for auto-formatting your code and static code analysis, but ESLint has a high learning curve if you are not very familiar with the Node.js ecosystem and NPM.
+
+I know how much you can learn from the suggestions of static code analysis, and how much more readable code with consistent styling is. Our eyes and brain unconsciously detects even slight differences, which consumes cognitive energy you might want to reserve for the actual task you are working on. But you don't want to spend the cognitive energy on sticking to strict coding styles either, which is why tools doing that for you are very helpful.
+
+Helping Theo with a initial setup of ESlint and simple NPM scripts for linting and fixing the JavaScript files, allows him to step-by-step get used to the workflow and adjust the ESLint rules to his preferences. Later he will be able to copy the settings to other projects as well.
 
 [eslint-web]: https://eslint.org/
 
