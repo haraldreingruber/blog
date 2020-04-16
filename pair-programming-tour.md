@@ -15,7 +15,7 @@ Here is my current tour schedule:
 | 4    | April 13-17      | [Johnicolas Hines][johnicolas], Glitch                | TypeScript, Node.js, Pair-Programming        |
 | 5    | April 20-24      | Mike Clement, Emmersion Learning                      | Mob-Programming                              |
 | 6    | April 27-May 1   | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
-| 7    | May 4-8          | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
+| 7    | May 4-7 (!)      | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 
 [austin]: https://twitter.com/mob__mentality
