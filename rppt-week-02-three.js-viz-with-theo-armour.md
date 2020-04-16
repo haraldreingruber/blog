@@ -32,7 +32,8 @@ There are hundreds of HTML and JavaScript snippets, which Theo published in this
 [jaanga-threejs-cookbook]: http://jaanga.github.io/index.html#cookbook-threejs/index.html
 
 ## Time zone difference and common working hours
-*was thinking about writing about trying out different schedules for our sessions, but maybe not that interesting and better keeping the article short*
+<span style="color: red;">TODO!</span>
+*Note: was thinking about writing about trying out different schedules for our sessions, but maybe not that interesting and better keeping the article short*
 
 ## Topics Theo and I were collaborating on
 After Theo showed me what he was working on, we figured out which topics might be interesting to start working on and kicked off our collaboration.
