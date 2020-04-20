@@ -20,16 +20,16 @@ He is really passionate about how "easy" and fast you are able to visualize 3D c
 [threejs-web]: https://threejs.org/
 
 ## Interesting projects Theo is working on
-Theo likes to play around with vanilla JavaScript and [three.js][threejs-web]. He has an uncountable number of projects and repositories on Github, which he created while experimenting with the reimagination of visualizing things (objects or information) in 3D.
+Theo likes to create web apps with vanilla JavaScript and [three.js][threejs-web]. He has an uncountable number of projects and repositories on Github, which he created while experimenting with the reimagination of visualizing things (objects or information) in 3D.
+
+### COVID-19 Viz3D (todo: mention in the top)
+A couple of weeks ago, with the start of the [COVID-19][covid-19-wiki] pandemic, Theo started a project to visualize the global statistics on a 3D globe in the browser, fetching data from the John Hopkins University and Wikipedia. Here is the [COVID-19 Viz3D][spider-covid-19-viz], which is also static HTML with plain vanilla JavaScript, only depending on [three.js][threejs-web] and fully running in the browser for desktop and mobile devices.
 
 ### Spider gbXML Viewer
 One very remarkable project is the [gbXML][gbxml-web] viewer, which allows to view building data stored in Building Information Models (BIM). Check out this online demo of the [Spider gbXML Viewer][spider-gbxml-viewer], I especially like the exploded view and the possibility to toggle the view between interior/exterior surfaces which can be found in the popup menu on the right.
 
-### COVID-19 Viz3D
-A couple of weeks ago, with the start of the [COVID-19][covid-19-wiki] pandemic, Theo started a project to visualize the global statistics on a 3D globe in the browser, fetching data from the John Hopkins University and Wikipedia. Here is the [COVID-19 Viz3D][spider-covid-19-viz], which is also static HTML with plain vanilla JavaScript, only depending on [three.js][threejs-web] and fully running in the browser for desktop and mobile devices.
-
 ### three.js cookbooks
-There are hundreds of HTML and JavaScript snippets, which Theo published in this Cookbooks, like [this one][jaanga-threejs-cookbook]. The idea is to have browser-ready online demos, where also people new to JavaScript and programming in general are able to copy, paste and adapt the code snippets from the [github repository][jaanga-threejs-cookbook].
+There are hundreds of HTML and JavaScript snippets, which Theo published in his "cookbooks", like [this one][jaanga-threejs-cookbook]. The idea is to have browser-ready online demos, where also people new to JavaScript and programming in general are able to copy, paste and adapt the code snippets from the [github repository][jaanga-threejs-cookbook].
 
 [gbxml-web]: https://www.gbxml.org/About_GreenBuildingXML_gbXML
 [spider-gbxml-viewer]: https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/
@@ -37,11 +37,31 @@ There are hundreds of HTML and JavaScript snippets, which Theo published in this
 [jaanga-threejs-cookbook]: http://jaanga.github.io/index.html#cookbook-threejs/index.html
 
 ## Time zone difference and common working hours
-<span style="color: red;">TODO!</span>
-*Note: was thinking about writing about trying out different schedules for our sessions, but maybe not that interesting and better keeping the article short*
+Theo usually is working in the afternoon and evening hours. Combined with the 9 hours time zone difference between Pacific and Central European time, it was not so easy for us to find time slots which was working well for both of us.
+
+In the beginning we tried to do two 2-hour slots in the morning and evening, but we soon realized it is better to have only one session per day instead of switching back and forth. After several sessions, we decided that doing 2-hour sessions twice a week works best for us. I've kept "week 2" in the title of this article, which is the week of my tour where we started collaborating. We continued collaborating in the weeks after at a lower pace. 
 
 ## Topics Theo and I were collaborating on
 After Theo showed me what he was working on, we figured out which topics might be interesting to start working on and kicked off our collaboration.
+
+### three.js performance profiling and improvement
+TODO!
+
+### Calendar versioning and automated deployment
+Theo uses a [calendar versioning][calver-web] approach, which allowed him to run different versions (by date) directly in the browser from Github Pages. He tried to create a new feature for the [COVID-19 Viz3D][spider-covid-19-viz] every day, and a menu linking to all daily versions clearly shows the impressive progress the project had during a couple of weeks.
+
+#### Separation of concerns
+While working with him, I noticed that because of creating copies of the source folders, Git can not be used to it's full extent as it looses the connection between the different versions. Still, the advantages of having all versions online in parallel is evident. My gut feeling was if the concern of versioning are separated from the concern of deployment, Theo could benefit from having all previous versions online while being able to use the full power of Git versioning.
+
+#### Continuous deployment of tags/branches
+We made a plan, to experiment with a couple of workflow changes:
+- Configure Github Pages to use a separate gh-pages brach, instead of master, which contains the sub-folder with all relevant source files
+- Create a branch or tag for each version
+- The development branch will only contain the current version
+- A deployment script will update the gh-pages branch and copy the current version to a sibling folder named after the branch name
+- The script will be executed on every new commit pushed to Github, by a continuous integration service like Github Actions, Travis CI, Circle CI, Gitlab CI, etc.
+
+[calver-web]: https://calver.org/
 
 ### ESlint
 Theo knew already that there is value in using tools for auto-formatting your code and static code analysis, but ESLint has a high learning curve if you are not very familiar with the Node.js ecosystem and NPM.
@@ -52,6 +72,4 @@ Helping Theo with a initial setup of ESlint and simple NPM scripts for linting a
 
 [eslint-web]: https://eslint.org/
 
-### Covid-19 viz continuous deployment and versioning
-
-### Visualize Harald's Coding-Tour locations on an interactive globe
+## Conclusion
