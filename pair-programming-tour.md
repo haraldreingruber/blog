@@ -162,7 +162,7 @@ It takes a lot of courage and effort planning and implementing such a tour, also
 [journeyman-photo-url]: https://github.com/haraldreingruber/blog/raw/master/imgs/journeymen.jpg
 [nicole-rauch-tour]: http://nicolerauch.de/posts/2016-08-29-craftsman-swap-and-journeyman-tour.html
 [peter-kofler-tour]: http://blog.code-cop.org/p/journeyman-tour.html
-[wwoof-about]: https://wwoofusa.org/about
+[wwoof-about]: https://wwoofusa.org/about/what-wwoof
 
 ## What about my project/company secrets and intellectual property?
 
