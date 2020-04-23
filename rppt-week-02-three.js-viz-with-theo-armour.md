@@ -5,7 +5,7 @@ id: "devto"
 
 **- Week 2 of my Remote Pair-Programming Tour -**
 
-[Theo][theo-armour-twitter] found out about my tour from my [outreach email campaign][tour-article] and liked the idea from the beginning. He even offered to cover my accommodation costs in San Francisco, but due to [COVID-19][covid-19-wiki] I had to return to Austria before I was able to start my tour. Thankfully, Theo was still interested in continuing the collaboration and knowledge exchange online and I was happy to find out how he was using [three.js][threejs-web] for the [COVID-19 visualization](#COVID-19-Viz3D) and his various other projects.
+[Theo][theo-armour-twitter] found out about my tour from my [outreach email campaign][tour-article] and liked the idea from the beginning. He even offered to cover my accommodation costs in San Francisco, but due to [COVID-19][covid-19-wiki] I had to return to Austria before I was able to start my tour. Thankfully, Theo was still interested in continuing the collaboration and knowledge exchange online and I was happy to find out how he was using [three.js][threejs-web] for the [COVID-19 visualization](#covid19-viz3d) and his various other projects.
 
 
 [covid-19-wiki]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
