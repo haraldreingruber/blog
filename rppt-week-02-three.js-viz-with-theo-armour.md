@@ -84,4 +84,15 @@ Helping Theo with a initial setup of ESlint and simple NPM scripts for linting a
 
 [eslint-web]: https://eslint.org/
 
-## Conclusion
+## Looking back
+It is really impressive to see that the people involved in software development are as diverse as the topics and technologies we are working on. Theo studied and was working as an architect and was involved with developing [CAD][cad-wiki] software. His enthusiasm is driven by working on prototypes and showing what can be achieved with technology.
+
+I recently heard about the difference between [Makers vs. Menders][makers-vs-menders-web]. Makers enjoy quickly building things while menders enjoy to analyze and improve things little by little looking for the mid-/long-term success.
+
+Not knowing how Theo would see himself in this categories, while working with him he reminded me of makers by this definition. I don't think this can or should be distinguished clearly, it's definitely good to know the tendency. I definitely would count myself as a mender, while I am also enjoying working on prototypes from some time. Ultimately, you want to have both types of personas in your team to turn up the good. This is probably one of the reasons why our collaboration was inspiring and a valuable learning experience for both of us.
+
+I am already looking forward to my next sessions with [Adrian Bolboacă][adrian].
+
+[adrian]: https://twitter.com/adibolb
+[cad-wiki]: https://en.wikipedia.org/wiki/Computer-aided_design
+[makers-vs-menders-web]: https://corgibytes.com/blog/2015/08/14/makers-vs-menders/
