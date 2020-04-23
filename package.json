@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "README.md",
+  "repository": "git@github.com:haraldreingruber/blog.git",
+  "author": "Harald Reingruber <harald.reingruber@gmx.at>",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "check:markdown": "find *.md -exec npx markdown-link-check {} \\;"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.8.1"
+  }
+}
