@@ -21,6 +21,7 @@ Here is my current tour schedule:
 In the pipeline:
 - Allen Chen, Occipital | Depth Camera, 6DOF Tracking, 3D Scanning SDK
 - Simon Berner
+- Lisi Hocke
 
 [austin]: https://twitter.com/mob__mentality
 [theo]: https://twitter.com/ta
