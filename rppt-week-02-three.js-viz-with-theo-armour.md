@@ -15,7 +15,7 @@ id: "devto"
 ## Shared passion for 3D visualization and three.js
 Theo is working on some really interesting projects, all [FOSS][foss-wiki] and based on [three.js][threejs-web].
 
-He is really passionate about how "easy" and fast you are able to visualize 3D content in the browser using [three.js][threejs-web], and his excitement is justified and very contagious. Collaborating on [three.js][threejs-web] projects was an awesome tour stop offer for me, and I enjoyed a lot figuring out how I can support Theo on his tasks and brainstorm with him about his future visions.
+He is really passionate about how "easy" and fast you are able to visualize 3D content in the browser using [three.js][threejs-web], and his excitement is not only justified but also very contagious. Collaborating on [three.js][threejs-web] projects was an awesome tour stop for me, and I enjoyed a lot figuring out how I can support Theo on his tasks and brainstorm with him about his future visions.
 
 [foss-wiki]: https://en.wikipedia.org/wiki/Free_and_open-source_software
 [threejs-web]: https://threejs.org/
@@ -52,12 +52,18 @@ In the beginning we tried to do two 2-hour slots in the morning and evening, but
 After Theo showed me what he was working on, we figured out which topics might be interesting to start working on and kicked off our collaboration.
 
 ### three.js performance profiling and improvement
-* Loading large amounts of data
-* Creating many 3D objects
-* Enabling user interaction with hundreds of obects
-* Keeps the Globe spining without too much jitter]
-* Maintain a high rate of framers per second - 60 gps being ideal
-* Make it all happn on computer, tablet or phone
+[COVID-19 Viz3D][spider-covid-19-viz] should run in browsers of mobile devices as well as desktop computers, which makes it especially difficult to stay within the 60 [FPS][fps-wiki] goal.
+We noticed that mainly the CPU usage is our bottleneck, because we saw in the Windows task manager that the GPU utilization didn't seem to be very high. We used the [three.js inspector][threejs-inspector-web] to disable certain three.js groups and saw that the cylinders seem to take most of the computation time. The scene contains more than 400k triangles, which seem to be too much to run well on all platforms, at least without further optimizations.
+
+From [Unity3D][unity-web] I knew if the triangle count is the issue, there are tricks like batching draw calls for meshes with the same material. A first search how this could be achieved with three.js made us considering to use [BufferGeometryUtils.mergeBufferGeometries()][threejs-merge-buffers] to merge all cylinders into one triangle mesh, but this way the raycaster for showing the statistics for each country when hovering the cylinder would not be able to return which mesh was hit by the raycast as easily.
+
+A couple of days later Theo found out that there is a rather new functionality in three.js called [InstancedMesh][threejs-instanced-mesh], which allows to create multiple/many instances of the same mesh. Bingo, now all 400k triangles are processed in one draw call a lot faster, and the three.js raycasting mechanism returns the corresponding instance ID which allows to display the data to the corresponding cylinder.
+
+[fps-wiki]:https://en.wikipedia.org/wiki/Frame_rate
+[threejs-inspector-web]: https://github.com/threejs/three-devtools
+[threejs-merge-buffers]: https://threejs.org/docs/#examples/en/utils/BufferGeometryUtils.mergeBufferGeometries
+[threejs-instanced-mesh]: https://threejs.org/docs/#api/en/objects/InstancedMesh
+[unity-web]: https://unity.com
 
 ### Calendar versioning and automated deployment
 Theo uses a [calendar versioning][calver-web] approach, which allowed him to run different versions (by date) directly in the browser from Github Pages. He tried to create a new feature for the [COVID-19 Viz3D][spider-covid-19-viz] every day, and a [menu linking to all daily versions][spider-covid-19-viz-archive] clearly shows the impressive progress the project had during a couple of weeks.
@@ -76,9 +82,9 @@ We made a plan, to experiment with a couple of workflow changes:
 [calver-web]: https://calver.org/
 
 ### ESlint
-Theo knew already that there is value in using tools for auto-formatting your code and static code analysis, but ESLint has a high learning curve if you are not very familiar with the Node.js ecosystem and NPM.
+Theo knew that there is value in using tools for auto-formatting your code and static code analysis, but ESLint has a high learning curve if you are not very familiar with the Node.js ecosystem and NPM.
 
-I know how much you can learn from the suggestions of static code analysis, and how much more readable code with consistent styling is. Our eyes and brain unconsciously detects even slight differences, which consumes cognitive energy you might want to reserve for the actual task you are working on. But you don't want to spend the cognitive energy on sticking to strict coding styles either, which is why tools doing that for you are very helpful.
+I know how much you can learn from the suggestions of static code analysis, and how much more readable code with consistent styling is. Our eyes and brain unconsciously detect even slight differences, which consumes cognitive energy you might want to reserve for the actual task you are working on. But you don't want to spend the cognitive energy on sticking to strict coding styles either, which is why tools doing that for you are very helpful.
 
 Helping Theo with a initial setup of ESlint and simple NPM scripts for linting and fixing the JavaScript files, allows him to step-by-step get used to the workflow and adjust the ESLint rules to his preferences. Later he will be able to copy the settings to other projects as well.
 
@@ -89,9 +95,9 @@ It is really impressive to see that the people involved in software development 
 
 I recently heard about the difference between [Makers vs. Menders][makers-vs-menders-web]. Makers enjoy quickly building things while menders enjoy to analyze and improve things little by little looking for the mid-/long-term success.
 
-Not knowing how Theo would see himself in this categories, while working with him he reminded me of makers by this definition. I don't think this can or should be distinguished clearly, it's definitely good to know the tendency. I definitely would count myself as a mender, while I am also enjoying working on prototypes from some time. Ultimately, you want to have both types of personas in your team to turn up the good. This is probably one of the reasons why our collaboration was inspiring and a valuable learning experience for both of us.
+Not knowing how Theo would see himself in this categories, while working with him he reminded me of makers by this definition. I don't think this can or should be distinguished clearly, but it's definitely good to know the tendency. I would count myself as a mender, while I am also enjoying working on prototypes from time to time. Ultimately, you want to have both types of personas in your team to turn up the good. This is probably one of the reasons why our collaboration was inspiring and a valuable learning experience for both of us.
 
-I am already looking forward to my next sessions with [Adrian Bolboacă][adrian].
+Bottom line, collaboration is really awesome and I am already looking forward to my next sessions with [Adrian Bolboacă][adrian]. :smiley:
 
 [adrian]: https://twitter.com/adibolb
 [cad-wiki]: https://en.wikipedia.org/wiki/Computer-aided_design
