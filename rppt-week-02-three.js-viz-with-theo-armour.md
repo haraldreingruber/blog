@@ -32,7 +32,7 @@ A couple of weeks ago, with the start of the [COVID-19][covid-19-wiki] pandemic,
 One very remarkable project is the [gbXML][gbxml-web] viewer, which allows to view building data stored in Building Information Models (BIM). Check out this online demo of the [Spider gbXML Viewer][spider-gbxml-viewer], I especially like the exploded view and the possibility to toggle the view between interior/exterior surfaces which can be found in the popup menu on the right.
 
 ### three.js cookbooks
-There are hundreds of HTML and JavaScript snippets, which Theo published in his "[cookbooks][cookbook-wiki]", like [this one][jaanga-threejs-cookbook]. The idea is to have browser-ready online demos, where also people new to JavaScript and programming in general are able to copy, paste and adapt the code snippets from the [github repository][jaanga-threejs-cookbook].
+There are hundreds of HTML and JavaScript snippets, which Theo published in his "[cookbooks][cookbook-wiki]", like [this one][jaanga-threejs-cookbook]. The idea is to have browser-ready online demos, where also people new to JavaScript and programming in general are able to copy, paste, and adapt the code snippets from the [github repository][jaanga-threejs-cookbook].
 
 [cookbook-wiki]: https://en.wikipedia.org/wiki/Cookbook#Usage_outside_the_world_of_food
 [gbxml-web]: https://www.gbxml.org/About_GreenBuildingXML_gbXML
@@ -44,16 +44,16 @@ There are hundreds of HTML and JavaScript snippets, which Theo published in his 
 [jaanga-threejs-cookbook]: http://jaanga.github.io/index.html#cookbook-threejs/index.html
 
 ## Time zone difference and common working hours
-Theo usually works in the afternoon and evening. Combined with the nine hour time zone difference between Pacific and Central European time, it was not so easy for us to find time slots which was working well for both of us.
+Theo usually works in the afternoon and evening. Combined with the nine-hour time zone difference between Pacific and Central European time, it was not so easy for us to find time slots that were working well for both of us.
 
-In the beginning we tried to do two 2-hour slots in the morning and evening, but we soon realized it is better to have only one session per day instead of switching back and forth. After several sessions, we decided that doing 2-hour sessions twice a week works best for us. I've kept "week 2" in the title of this article, which is the week of my tour where we started collaborating. We continued collaborating in the weeks after at a lower pace. 
+In the beginning we tried to do two 2-hour slots in the morning and evening, but we soon realized it is better to have only one session per day instead of switching back and forth. After several sessions, we decided that doing 2-hour sessions twice a week works best for us. I've kept "week 2" in the title of this article, which is the week of my tour where we started collaborating. We continued collaborating in the weeks after at a slower pace. 
 
 ## Topics Theo and I were collaborating on
 After Theo showed me what he was working on, we figured out which topics might be interesting to start working on and kicked off our collaboration.
 
 ### three.js performance profiling and improvement
 [COVID-19 Viz3D][spider-covid-19-viz] should run in browsers of mobile devices as well as desktop computers, which makes it especially difficult to stay within the 60 [FPS][fps-wiki] goal.
-We noticed that mainly the CPU usage is our bottleneck, because we saw in the Windows task manager that the GPU utilization didn't seem to be very high. We used the [three.js inspector][threejs-inspector-web] to disable certain three.js groups and saw that the cylinders seem to take most of the computation time. The scene contains more than 400k triangles, which seem to be too much to run well on all platforms, at least without further optimizations.
+We noticed that mainly the CPU usage is our bottleneck because we saw in the Windows task manager that the GPU utilization didn't seem to be very high. We used the [three.js inspector][threejs-inspector-web] to disable certain three.js groups and saw that the cylinders seem to take most of the computation time. The scene contains more than 400k triangles, which seem to be too much to run well on all platforms, at least without further optimizations.
 
 From [Unity3D][unity-web] I knew if the triangle count is the issue, there are tricks like batching draw calls for meshes with the same material. A first search how this could be achieved with three.js made us considering to use [BufferGeometryUtils.mergeBufferGeometries()][threejs-merge-buffers] to merge all cylinders into one triangle mesh, but this way the raycaster for showing the statistics for each country when hovering the cylinder would not be able to return which mesh was hit by the raycast as easily.
 
@@ -69,7 +69,7 @@ A couple of days later Theo found out that there is a rather new functionality i
 Theo uses a [calendar versioning][calver-web] approach, which allowed him to run different versions (by date) directly in the browser from Github Pages. He tried to create a new feature for the [COVID-19 Viz3D][spider-covid-19-viz] every day, and a [menu linking to all daily versions][spider-covid-19-viz-archive] clearly shows the impressive progress the project had during a couple of weeks.
 
 #### Separation of concerns
-While working with him, I noticed that because of creating copies of the source folders, Git can not be used to it's full extent as it looses the connection between the different versions. Still, the advantages of having all versions online in parallel is evident. My gut feeling was if the concern of versioning are separated from the concern of deployment, Theo could benefit from having all previous versions online while being able to use the full power of Git versioning.
+While working with him, I noticed that because of creating copies of the source folders, Git can not be used to its full extent as it loses the connection between the different versions. Still, the advantages of having all versions online in parallel is evident. My gut feeling was if the concern of versioning are separated from the concern of deployment, Theo could benefit from having all previous versions online while being able to use the full power of Git versioning.
 
 #### Continuous deployment of tags/branches
 We made a plan, to experiment with a couple of workflow changes:
@@ -86,16 +86,16 @@ Theo knew that there is value in using tools for auto-formatting your code and s
 
 I know how much you can learn from the suggestions of static code analysis, and how much more readable code with consistent styling is. Our eyes and brain unconsciously detect even slight differences, which consumes cognitive energy you might want to reserve for the actual task you are working on. But you don't want to spend the cognitive energy on sticking to strict coding styles either, which is why tools doing that for you are very helpful.
 
-Helping Theo with a initial setup of ESlint and simple NPM scripts for linting and fixing the JavaScript files, allows him to step-by-step get used to the workflow and adjust the ESLint rules to his preferences. Later he will be able to copy the settings to other projects as well.
+Helping Theo with an initial setup of ESlint and simple NPM scripts for linting and fixing the JavaScript files, allows him to step-by-step get used to the workflow and adjust the ESLint rules to his preferences. Later he will be able to copy the settings to other projects as well.
 
 [eslint-web]: https://eslint.org/
 
 ## Looking back
 It is really impressive to see that the people involved in software development are as diverse as the topics and technologies we are working on. Theo studied and was working as an architect and was involved with developing [CAD][cad-wiki] software. His enthusiasm is driven by working on prototypes and showing what can be achieved with technology.
 
-I recently heard about the difference between [Makers vs. Menders][makers-vs-menders-web]. Makers enjoy quickly building things while menders enjoy to analyze and improve things little by little looking for the mid-/long-term success.
+I recently heard about the difference between [Makers vs. Menders][makers-vs-menders-web]. Makers enjoy quickly building things while menders enjoy analyzing and improve things little by little looking for mid-/long-term success.
 
-Not knowing how Theo would see himself in this categories, while working with him he reminded me of makers by this definition. I don't think this can or should be distinguished clearly, but it's definitely good to know the tendency. I would count myself as a mender, while I am also enjoying working on prototypes from time to time. Ultimately, you want to have both types of personas in your team to turn up the good. This is probably one of the reasons why our collaboration was inspiring and a valuable learning experience for both of us.
+Not knowing how Theo would see himself in these categories while working with him he reminded me of makers by this definition. I don't think this can or should be distinguished clearly, but it's definitely good to know the tendency. I would count myself as a mender, while I am also enjoying working on prototypes from time to time. Ultimately, you want to have both types of personas in your team to turn up the good. This is probably one of the reasons why our collaboration was inspiring and a valuable learning experience for both of us.
 
 Bottom line, collaboration is really awesome and I am already looking forward to my next sessions with [Adrian Bolboacă][adrian]. :smiley:
 
