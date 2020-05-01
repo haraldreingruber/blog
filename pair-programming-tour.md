@@ -9,11 +9,11 @@ Here is my current tour schedule:
 
 | Week | Date             | Developer/Company                                     | Topics                                       |
 |------|------------------|-------------------------------------------------------|----------------------------------------------|
-| 1    | March 23-27      | [Austin Chadwick][austin], Hunter Industries          | C#, Xamarin, .NET Core, Mob-Programming      |
+| 1    | March 23-27      | [Austin Chadwick][austin], Hunter Industries          | C#, Xamarin, .NET Core, TDD, Mob-Programming      |
 | 2    | March 30-April 3 | [Theo Armour][theo]                                   | JavaScript, three.js, Pair-Programming       |
-| 3    | April 6-10       | [Adrian Bolboacă][adrian]                             | Dart, Flutter, Mobile, Pair-Programming      |
-| 4    | April 13-17      | [Johnicolas Hines][johnicolas], Glitch                | TypeScript, Node.js, Pair-Programming        |
-| 5    | April 20-24      | [Mike Clement][mike], Emmersion Learning              | TypeScript, Angular, .NET Core, Mob-Programming |
+| 3    | April 6-10       | [Adrian Bolboacă][adrian]                             | Dart, Flutter, Mobile, TDD, Pair-Programming      |
+| 4    | April 13-17      | [Johnicolas Hines][johnicolas], Glitch                | TypeScript, Node.js, TDD, Pair-Programming        |
+| 5    | April 20-24      | [Mike Clement][mike], Emmersion Learning              | TypeScript, Angular, .NET Core, TDD, Mob-Programming |
 | 6    | April 27-May 1   | [Peter "Code Cop" Kofler][peter]                      | Unity3d, TDD, Pair-programming               |
 | 7    | May 4-7 (!)      | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
 | 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                              |
