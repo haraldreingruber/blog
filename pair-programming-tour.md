@@ -16,8 +16,8 @@ Here is my current tour schedule:
 | 5    | April 20-24      | [Mike Clement][mike], Emmersion Learning              | TypeScript, Angular, .NET Core, TDD, Mob-Programming |
 | 6    | April 27-May 1   | [Peter "Code Cop" Kofler][peter]                      | Unity3d, TDD, Pair-programming                       |
 | 7    | May 4-7 (!)      | [Fabien Benetou][fabien], European Parliament Innovation Lab WebXR | A-Frame, Mozilla Hubs, Pair-Programming |
-| 8    | May 11-15        | Still avaliable - [reach out to me!](#lets-talk)      |                                                      |
-| 9    | May 18-22        | Still avaliable - [reach out to me!](#lets-talk)      |                                                      |
+| 8    | May 12-15        | [Kieran Farr][kieran]                                 | A-Frame, Streetmix3D, Pair-Programming               |
+| 9    | May 18-22        | [Ted M. Young][ted]                                   |                                                      |
 
 [austin]: https://twitter.com/mob__mentality
 [theo]: https://twitter.com/ta
@@ -26,6 +26,8 @@ Here is my current tour schedule:
 [mike]: https://twitter.com/mdclement
 [peter]: https://twitter.com/codecopkofler
 [fabien]: https://twitter.com/utopiah/
+[kieran]: https://twitter.com/kfarr
+[ted]: https://twitter.com/jitterted
 
 # Original Pair-Programming Tour Article:
 
