@@ -6,7 +6,7 @@
   "author": "Harald Reingruber <harald.reingruber@gmx.at>",
   "license": "CC-BY-4.0",
   "scripts": {
-    "check:markdown": "find *.md -exec npx markdown-link-check {} \\;"
+    "lint": "find *.md -exec npx markdown-link-check {} ;"
   },
   "devDependencies": {
     "markdown-link-check": "^3.8.1"
