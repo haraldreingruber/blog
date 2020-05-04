@@ -21,9 +21,14 @@ He works in the infrastructure team at [Glitch][glitch-web] and is an enthusiast
 [trello-web]: https://trello.com
 
 ## Test-driven-development with Glitch
-For getting started and to know each other better we decided to exercise a code 
+For getting to know each other and [Glitch][glitch-web] better we decided to do a code kata as a exercise. [Code katas][code-kata-web] follow the idea of [delibarte practice][deliberate-practice-definition], meaning to do a simple exercise over and over again in order to be able to pay attention to a specific technique and focus rather on the process than the actual result.
+
+The integrated editor of [Glitch][glitch-web] doesn't have 
 {% glitch game-of-life-kata app %}
 https://theintern.io/
+
+[code-kata-web]: http://codekata.com/
+[deliberate-practice-definition]: https://blog.cyber-dojo.org/2015/05/do-more-deliberate-practice.html
 
 ## Pair-Programming with VSCode Live Share
 
