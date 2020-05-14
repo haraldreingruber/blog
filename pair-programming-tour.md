@@ -15,9 +15,9 @@ Here is my current tour schedule:
 | 4    | April 13-17      | [Johnicolas Hines][johnicolas], Glitch                | TypeScript, Node.js, TDD, Pair-Programming           |
 | 5    | April 20-24      | [Mike Clement][mike], Emmersion Learning              | TypeScript, Angular, .NET Core, TDD, Mob-Programming |
 | 6    | April 27-May 1   | [Peter "Code Cop" Kofler][peter]                      | Unity3d, TDD, Pair-programming                       |
-| 7    | May 4-7 (!)      | [Fabien Benetou][fabien], European Parliament Innovation Lab WebXR | A-Frame, Mozilla Hubs, Pair-Programming |
+| 7    | May 4-8          | [Fabien Benetou][fabien], European Parliament Innovation Lab WebXR | A-Frame, Mozilla Hubs, Pair-Programming |
 | 8    | May 12-15        | [Kieran Farr][kieran]                                 | A-Frame, Streetmix3D, Pair-Programming               |
-| 9    | May 18-22        | [Ted M. Young][ted]                                   |                                                      |
+| 9    | May 18-22        | [Ted M. Young][ted]                                   | JavaScript, TDD                                      |
 
 [austin]: https://twitter.com/mob__mentality
 [theo]: https://twitter.com/ta
