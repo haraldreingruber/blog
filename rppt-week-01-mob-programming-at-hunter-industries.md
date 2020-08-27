@@ -20,7 +20,7 @@ My favorite quote from the Mob Mentality Show:
 > Pair Programming feels like going on a date.
 > -- *[unknown][financial-benefits]*
 
-Watching the [videocast][mob-mentality-youtube] of [Austin][mob-mentality-twitter] and [Chris Lucian][chris-twitter] was really an eye-opener to me and was very curious about joining their mob-programming sessions.
+Watching the [videocast][mob-mentality-youtube] of [Austin][mob-mentality-twitter] and [Chris Lucian][chris-twitter] was really an eye-opener to me and I was very curious about joining their mob-programming sessions.
 
 [amitai-twitter]: https://twitter.com/schmonz
 [chris-twitter]: https://twitter.com/ChristophLucian
