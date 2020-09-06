@@ -129,7 +129,7 @@ Also, if we discover topics of general interest I am happy to give talks or work
 
 #
 
-> Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowlede make him a first class software craftsman. His strong enthusiasm for software development and collaboration among developers are an inspiration to me.
+> Harald's eagerness to grow as a developer in order to perfect coding skills, as well as his willingness to share knowledge make him a first-class software craftsman. His strong enthusiasm for software development and collaboration among developers is an inspiration to me.
 > -- <cite>Alexander Hörmandinger, Agfa Healthcare GmbH</cite>
 
 #
