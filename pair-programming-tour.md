@@ -159,7 +159,7 @@ It takes a lot of courage and effort planning and implementing such a tour, also
 
 [amitai-schleier-website]: https://latentagility.com
 [amitai-schleier-tour]: https://schmonz.com/2018/04/23/coding-tour
-[code-retreat-about]: https://www.coderetreat.org/pages/about
+[code-retreat-about]: https://www.coderetreat.org/the-workshop/#what-is-a-coderetreat
 [corey-haines-blog]: http://blog.coreyhaines.com
 [corey-haines-tour]: https://www.infoq.com/news/2008/12/haines-pairing-tour
 [german-walz-wiki]: https://en.wikipedia.org/wiki/Journeyman_years#The_German_%22Walz%22

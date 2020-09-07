@@ -24,7 +24,7 @@ Watching the [videocast][mob-mentality-youtube] of [Austin][mob-mentality-twitte
 
 [amitai-twitter]: https://twitter.com/schmonz
 [chris-twitter]: https://twitter.com/ChristophLucian
-[code-retreat-about]: https://www.coderetreat.org/pages/about/
+[code-retreat-about]: https://www.coderetreat.org/the-workshop/#what-is-a-coderetreat
 [financial-benefits]: https://www.chrislucian.com/2019/09/mob-programming-financial-benefits.html
 [mob-mentality-twitter]: https://twitter.com/mob__mentality
 [mob-mentality-youtube]: https://www.youtube.com/channel/UCgt1lVMrdwlZKBaerxxp2iQ
